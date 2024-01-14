@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mav */
+ls -m -v -a -F */
