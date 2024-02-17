@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "[c ; C] -delete
+tr "c" "" | tr "C" ""
